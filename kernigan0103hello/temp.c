@@ -1,7 +1,7 @@
 main()
 {
 	printf("Fahr\t");
-	printf("Cels");
+	printf("Cels\n");
 
 	int fahr, celsius;
 	int lower, upper, step;
