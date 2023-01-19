@@ -1,6 +1,6 @@
 main()
 {
-	printf("Fahr");
+	printf("Fahr\t");
 	printf("Cels");
 
 	int fahr, celsius;
